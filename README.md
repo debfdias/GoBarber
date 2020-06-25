@@ -14,6 +14,8 @@ Barber shop schedule system 💈
 
   # enter directory
   $ cd gobarber
+  
+  # change .env file with your credentials 
 ```
 
 ## :gear: Run backend
