@@ -1,9 +1,6 @@
 # GoBarber
 Barber shop schedule system 💈
 
-<h1 align="center">
-    <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gobarber_19xmN2BUU.svg" width="250px" />
-</h1>
 
 ## :books: Requirements
 - [**Git**](https://git-scm.com/)
@@ -55,7 +52,7 @@ Barber shop schedule system 💈
 ```
 
 <h4 align="center">
-  Made with ❤️ by debs. 👋🏻 [Get in touch!](https://www.linkedin.com/in/debfdias/)
+  Made with ❤️ by debs. 👋🏻 <a href="https://www.linkedin.com/in/debfdias/">Get in touch!</a>
 </h4>
 
 
