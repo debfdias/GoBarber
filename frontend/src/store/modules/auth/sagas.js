@@ -16,11 +16,11 @@ export function* signIn({ payload }) {
     });
 
     const { token, user } = response.data;
-
-    if (!user.provider) {
-      toast.error("Usuário não é prestador");
+/*
+    if (user.provider) {
+      toast.error("Usuário não é prestador viu");
       return;
-    }
+    }*/
 
     api.defaults.headers.Authorization = `Bearer ${token}`;
 

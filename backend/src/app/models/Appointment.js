@@ -5,7 +5,7 @@ class Appointment extends Model {
   static init(sequelize) {
     super.init(
       {
-        data: Sequelize.DATE,
+        date: Sequelize.DATE,
         canceled_at: Sequelize.DATE,
         past: {
           type: Sequelize.VIRTUAL,
@@ -22,9 +22,8 @@ class Appointment extends Model {
       },
       {
         sequelize,
-      }
+      },
     );
-
     return this;
   }
 
